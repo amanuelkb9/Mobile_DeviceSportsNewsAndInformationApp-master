@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="17dp">
+
+    <TextView
+        android:id="@+id/sportType"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        style="@style/TitleTextStyle"/>
+
+    <TextView
+        android:id="@+id/sportName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        style="@style/BoldSubTitleTextStyle"/>
+
+    <TextView
+        android:id="@+id/sportInstruction"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        style="@style/NormalTextStyle" />
+</LinearLayout>

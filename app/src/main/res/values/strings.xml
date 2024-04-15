@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Sports News and Information App</string>
+    <string name="add_element">Add Element</string>
+    <string name="news_label">News</string>
+    <string name="events_label">Events</string>
+    <string name="historical_archives_label">Historical Archives</string>
+    <string name="sports_label">Sports</string>
+    <string name="athletes_label">Athletes</string>
+    <string name="about_me_label">About Me</string>
+    <string name="main_tab">Main Tab</string>
+    <string name="name_label">Name</string>
+    <string name="sport_label">Sport</string>
+    <string name="country_label">Country</string>
+    <string name="personal_best_label">Personal Best</string>
+    <string name="medals_awarded_label">Medals Awarded</string>
+    <string name="facts_label">Facts</string>
+    <string name="field_input">: %1$s</string>
+    <string name="events_date_format">dd/MM/yyyy</string>
+    <string name="about_me_name">Timothy Jake Flordelis</string>
+    <string name="about_me_details">Ever since I was a kid, basketball has been my first love. From shooting hoops in the driveway to cheering on my favorite teams, the rhythm of the game has always captivated me. There\'s something about the sound of a bouncing ball and the thrill of a last-second shot that gets my heart racing.\n\nDuring my teenage years, I found myself drawn to the dramatic world of WWE. The larger-than-life characters, the intense rivalries, and the adrenaline-pumping action kept me glued to the screen. Whether it was cheering for my favorite wrestlers or mimicking their signature moves with friends, WWE provided an escape into a world of excitement and entertainment.\n\nAs I entered college, my fascination turned to the high-speed world of Formula 1 racing. The precision, skill, and technology behind each race fascinated me. Watching the cars zoom around the track at breakneck speeds ignited a passion for speed and competition within me.\n\nBut my interests didn\'t stop there. When I started working, I discovered a love for the great outdoors and staying active. Running became my therapy, a way to clear my mind and challenge my limits. Mountain biking took me on exhilarating adventures through rugged terrain, while swimming became my oasis of calm in the midst of life\'s chaos.\n\nIn every aspect of my life, whether on the court, in the ring, on the track, or on the trails, I find joy in pushing myself beyond boundaries and embracing the thrill of the moment. And through it all, my passion for sports and adventure continues to shape who I am.\n\nJoin me as I embark on this journey of discovery, fueled by the love for basketball, WWE, F1 racing, and the great outdoors. Let\'s make every moment count and create memories that will last a lifetime.</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="sports_news_image">Sports News Image</string>
+    <string name="instructions_label">Instructions</string>
+    <string name="sports_name_label">Sports Name</string>
+    <string name="add_new_sport">Add New Sport</string>
+    <string name="add_label">Add</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="sport_type_label">Sport Type</string>
+    <string name="news_image_url">News Image URL</string>
+    <string name="news_description">News Description</string>
+    <string name="news_title">News Title</string>
+    <string name="athlete_s_name">Athlete\'s Name</string>
+    <string name="main_competing_sport">Main Competing Sport</string>
+    <string name="personal_best">Personal Best</string>
+    <string name="number_of_medals_awarded">Number of Medals Awarded</string>
+    <string name="interesting_facts">Interesting Facts</string>
+    <string name="add_new_news">Add New News</string>
+    <string name="event_name">Event Name</string>
+    <string name="select_date">Select Date</string>
+    <string name="add_new_event">Add New Event</string>
+    <string name="date_label">Date</string>
+    <string name="description_label">Description</string>
+    <string name="event_description">Event Description</string>
+    <string name="add_new_historical_archive">Add New Historical Archive</string>
+    <string-array name="sport_type_values">
+        <item>Measure</item>
+        <item>Precision</item>
+        <item>Spectacle</item>
+        <item>Combat</item>
+        <item>Play</item>
+    </string-array>
+</resources>
